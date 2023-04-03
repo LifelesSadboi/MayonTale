@@ -9,13 +9,6 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     public Vector2 movement;
 
-    public VectorValue startingPosition;
-
-    private void Start()
-    {
-        transform.position = startingPosition.initialValue;
-    }
-
     public void Update()
     {
         // Get input x and y
