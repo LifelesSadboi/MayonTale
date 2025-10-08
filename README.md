@@ -1,4 +1,6 @@
 # MayonTale
-Game Development Thesis Project
+Game Development Capstone Project
 
-This is a 2D Role-playing game that we made for a Thesis project
+A 2D Role-playing game that I made for a Capstone project
+This is my gamedev project that I made
+
